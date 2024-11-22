@@ -1,5 +1,5 @@
 - 👋 hi, i’m @pylojoe,
-- 👀 i’m interested in python,
+- 👀 i’m interested in pure python(no library, no database, no api),
 - 🌱 i’m currently learning python(learning never stops),
 - 💞️ i’m looking to collaborate on python project(s),
 - 📫 how to reach me: pylojoe@gmail.com,
